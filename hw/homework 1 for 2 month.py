@@ -16,4 +16,4 @@ car1 = Car("Tesla Model S", 250, 80)
 car2 = Car("Toyota Corolla", 180, 40)
 
 print(car1.driver(100))
-print(car2.driver(500))
+print(car2.driver(500)) 
