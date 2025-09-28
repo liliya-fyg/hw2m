@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import sqlite3
 
 conn = sqlite3.connect('my_database2.db')
